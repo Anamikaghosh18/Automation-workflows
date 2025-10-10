@@ -1,0 +1,36 @@
+# ===============================
+# UiPath Git Ignore Template
+# ===============================
+
+# Local machine-specific folders
+*.local/
+*.screenshots/
+*.cache/
+*.user/
+
+# UiPath generated files
+*.nupkg
+*.log
+*.db
+*.tmp
+
+# Orchestrator and test result folders
+/TestResults/
+/OrchestratorLogs/
+
+# Project backup or export files
+*.zip
+*.rar
+
+# Excel or data used locally (optional)
+# Uncomment if you don’t want to push input/output data
+# /Data/Input/
+# /Data/Output/
+
+# VSCode or IDE-related files (if you use external editor)
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db

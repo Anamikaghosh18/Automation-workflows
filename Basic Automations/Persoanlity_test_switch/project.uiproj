@@ -1,0 +1,6 @@
+{
+  "Name": "Eye Color_ Switch",
+  "ProjectType": "Process",
+  "Description": "This is a demo where robot will ask the user their eye color and give responses of their personality. - Switch statement demo.",
+  "MainFile": "Main.xaml"
+}

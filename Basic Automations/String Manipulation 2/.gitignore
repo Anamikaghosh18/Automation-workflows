@@ -1,0 +1,7 @@
+# UiPath ignored files
+*.local/
+*.screenshots/
+*.nupkg
+*.cache/
+*.user
+*.log

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome UiPath Studio shortcuts",
+  "Type": "Screen",
+  "Id": "dkJGPPiEsEmKPdLnCG0HyA",
+  "Reference": "zXAF2Ye0106xnoT2lCaIkA/dkJGPPiEsEmKPdLnCG0HyA",
+  "ParentRef": "zXAF2Ye0106xnoT2lCaIkA/uWioWQigAkqHNpzBpAupTg",
+  "Created": "2025-10-09T17:40:54.8701068Z",
+  "Updated": "2025-10-09T17:40:54.8701068Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "OpenBrowser",
+  "ProjectType": "Process",
+  "Description": "This will open a web browser",
+  "MainFile": "Main.xaml"
+}

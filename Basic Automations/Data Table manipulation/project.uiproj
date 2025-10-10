@@ -1,0 +1,6 @@
+{
+  "Name": "Data Table manipulation",
+  "ProjectType": "Process",
+  "Description": "‘A workflow using data table activities to join two library databases'",
+  "MainFile": "Main.xaml"
+}

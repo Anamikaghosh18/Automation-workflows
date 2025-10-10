@@ -1,0 +1,6 @@
+{
+  "Name": "Lists",
+  "ProjectType": "Process",
+  "Description": "Build a workflow using the Concat and Join method that merges two lists containing the city names of the UK and Spain, sorts it, capitalizes the first letter of eachitem, and displays it in a message box.",
+  "MainFile": "Main.xaml"
+}

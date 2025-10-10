@@ -1,0 +1,14 @@
+﻿{
+  "Name": "github.com",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "hEkL__NapU-fHVLELF9pJA",
+  "Reference": "zXAF2Ye0106xnoT2lCaIkA/hEkL__NapU-fHVLELF9pJA",
+  "ParentRef": "zXAF2Ye0106xnoT2lCaIkA/M-2pnwZTu0qURGNiztECmA",
+  "Created": "2025-10-09T19:23:11.7931953Z",
+  "Updated": "2025-10-09T19:23:11.7931953Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

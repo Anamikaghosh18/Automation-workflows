@@ -1,0 +1,6 @@
+{
+  "Name": "Notepad Workflow",
+  "ProjectType": "Process",
+  "Description": "This will open the notepad create something into the file and save it.",
+  "MainFile": "Main.xaml"
+}

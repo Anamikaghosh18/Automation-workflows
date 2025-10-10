@@ -1,0 +1,6 @@
+{
+  "Name": "String Manipulation 2",
+  "ProjectType": "Process",
+  "Description": "This workflow will extracts any specific words/ elements from a sentence. ",
+  "MainFile": "Main.xaml"
+}
