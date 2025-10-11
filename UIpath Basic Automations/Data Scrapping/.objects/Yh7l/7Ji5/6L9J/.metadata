@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Latest Articles on RPA News and Automa",
+  "Type": "Screen",
+  "Id": "6L9JDoSIVkWiPIaYGHaGFw",
+  "Reference": "00fZqytIgUux6DH5gPEclg/6L9JDoSIVkWiPIaYGHaGFw",
+  "ParentRef": "00fZqytIgUux6DH5gPEclg/7Ji57ApHd0ulIu6QAe4Yeg",
+  "Created": "2025-10-11T04:04:55.3472305Z",
+  "Updated": "2025-10-11T04:04:55.3472305Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome RPA Design and Development v3.0",
+  "Type": "App",
+  "Id": "RzjDUHYtsU2syRoK0ASasg",
+  "Reference": "tbfznkBBNkKA2Ya63liymw/RzjDUHYtsU2syRoK0ASasg",
+  "Created": "2025-10-10T21:36:20.2288641Z",
+  "Updated": "2025-10-10T21:36:20.2288641Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

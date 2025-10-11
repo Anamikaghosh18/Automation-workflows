@@ -1,0 +1,6 @@
+{
+  "Name": "Data Scrapping",
+  "ProjectType": "Process",
+  "Description": "scrapes blog post titles from the UiPath Blog from multiple pages",
+  "MainFile": "Main.xaml"
+}

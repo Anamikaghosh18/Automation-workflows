@@ -1,0 +1,6 @@
+{
+  "Name": "Workbook Automation",
+  "ProjectType": "Process",
+  "Description": " read data from a workbook and append data to another workbook.",
+  "MainFile": "Main.xaml"
+}

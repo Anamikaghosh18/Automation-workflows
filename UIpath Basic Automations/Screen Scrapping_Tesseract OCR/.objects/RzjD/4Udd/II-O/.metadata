@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA Design and Development v3.0",
+  "Type": "Screen",
+  "Id": "II-O6jmOsUmFvVqIOEBBcw",
+  "Reference": "tbfznkBBNkKA2Ya63liymw/II-O6jmOsUmFvVqIOEBBcw",
+  "ParentRef": "tbfznkBBNkKA2Ya63liymw/4Uddf7GBP0qf6JXu3uNuTw",
+  "Created": "2025-10-10T21:36:20.4025706Z",
+  "Updated": "2025-10-10T21:36:20.4025706Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

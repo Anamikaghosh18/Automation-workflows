@@ -1,0 +1,6 @@
+{
+  "Name": "Email Automation",
+  "ProjectType": "Process",
+  "Description": " extracts attachments from emails containing the word “Resume” in its subject.",
+  "MainFile": "Main.xaml"
+}

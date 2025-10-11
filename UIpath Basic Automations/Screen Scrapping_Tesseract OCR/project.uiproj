@@ -1,0 +1,6 @@
+{
+  "Name": "Screen Scrapping_Tesseract OCR",
+  "ProjectType": "Process",
+  "Description": "This process will scrap the text from an image and store the text into a notepad file.",
+  "MainFile": "Main.xaml"
+}

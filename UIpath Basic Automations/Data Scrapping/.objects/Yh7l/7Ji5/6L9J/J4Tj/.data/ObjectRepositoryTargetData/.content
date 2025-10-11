@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6KQ0FALt50CSRld7X59lEg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uipath.com/blog/product-and-updates/uipath-named-leader-gartner-mq-for-ai-augmented-software-testing-tools" DesignTimeRectangle="47, 585, 1825, 168" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H1' /&gt;" Guid="46183bda-d68c-4e35-ad53-7accf6db3ecc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath Named a Leader in Gartner® MQ for AI-Augmented Software Testing Tools | UiPath' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bb65704832dc20fbab68c042112ee359.png" xmlns="">0n8rLMIJvi0-j96QOKcDtKw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

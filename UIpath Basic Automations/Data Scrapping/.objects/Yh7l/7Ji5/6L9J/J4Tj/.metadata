@@ -1,0 +1,14 @@
+﻿{
+  "Name": "UiPath Named a Leader i…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "J4TjpeeJk06pRLk2Nhn4pw",
+  "Reference": "00fZqytIgUux6DH5gPEclg/J4TjpeeJk06pRLk2Nhn4pw",
+  "ParentRef": "00fZqytIgUux6DH5gPEclg/6L9JDoSIVkWiPIaYGHaGFw",
+  "Created": "2025-10-11T04:05:31.9541249Z",
+  "Updated": "2025-10-11T04:05:31.9541249Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

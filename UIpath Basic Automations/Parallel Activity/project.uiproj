@@ -1,0 +1,6 @@
+{
+  "Name": "Parallel Activity",
+  "ProjectType": "Process",
+  "Description": "Do multiple tasks parallelly.",
+  "MainFile": "Main.xaml"
+}

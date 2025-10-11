@@ -1,0 +1,6 @@
+{
+  "Name": "Prime or Not_ While",
+  "ProjectType": "Process",
+  "Description": "workflow that informs the user whether the input is prime or not. ",
+  "MainFile": "Main.xaml"
+}
